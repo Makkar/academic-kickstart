@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -75,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+I view the theory and practice of building systems that learn to make decisions under uncertainty mainly from a Bayesian perspective. My interests include probabilistic modeling and approximate Bayesian inference.
